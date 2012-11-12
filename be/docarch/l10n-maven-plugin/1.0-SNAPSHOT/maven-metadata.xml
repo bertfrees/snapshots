@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>be.docarch</groupId>
+  <artifactId>l10n-maven-plugin</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20121112.231227</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20121112231227</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0-20121112.231227-1</value>
+        <updated>20121112231227</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20121112.231227-1</value>
+        <updated>20121112231227</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

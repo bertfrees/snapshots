@@ -6,5 +6,10 @@
       <prefix>oxt</prefix>
       <artifactId>oxt-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>l10n-maven-plugin</name>
+      <prefix>l10n</prefix>
+      <artifactId>l10n-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
