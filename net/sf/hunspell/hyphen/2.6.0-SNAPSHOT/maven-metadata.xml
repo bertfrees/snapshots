@@ -5,26 +5,26 @@
   <version>2.6.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20130325.185029</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20130327.093013</timestamp>
+      <buildNumber>5</buildNumber>
     </snapshot>
-    <lastUpdated>20130325185029</lastUpdated>
+    <lastUpdated>20130327093013</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>nar</extension>
-        <value>2.6.0-20130325.185029-3</value>
-        <updated>20130325185029</updated>
+        <value>2.6.0-20130327.093013-5</value>
+        <updated>20130327093013</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.6.0-20130325.185029-3</value>
-        <updated>20130325185029</updated>
+        <value>2.6.0-20130327.093013-5</value>
+        <updated>20130327093013</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>noarch</classifier>
         <extension>nar</extension>
-        <value>2.6.0-20130325.185029-3</value>
-        <updated>20130325185029</updated>
+        <value>2.6.0-20130327.093013-5</value>
+        <updated>20130327093013</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>i386-MacOSX-gpp-executable</classifier>
@@ -61,6 +61,30 @@
         <extension>nar</extension>
         <value>2.6.0-20130325.185029-3</value>
         <updated>20130325185029</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>amd64-Linux-gpp-executable</classifier>
+        <extension>nar</extension>
+        <value>2.6.0-20130327.092930-4</value>
+        <updated>20130327092930</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>amd64-Linux-gpp-shared</classifier>
+        <extension>nar</extension>
+        <value>2.6.0-20130327.092930-4</value>
+        <updated>20130327092930</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>i386-Linux-gpp-executable</classifier>
+        <extension>nar</extension>
+        <value>2.6.0-20130327.093013-5</value>
+        <updated>20130327093013</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>i386-Linux-gpp-shared</classifier>
+        <extension>nar</extension>
+        <value>2.6.0-20130327.093013-5</value>
+        <updated>20130327093013</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
