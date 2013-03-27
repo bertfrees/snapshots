@@ -181,9 +181,8 @@
 					<value>Mac OS X</value>
 				</property>
 			</activation>
-			<properties><!--
-				<nar.install_name.option>-Wl,-install_name,@loader_path/libxml2.dylib</nar.install_name.option>-->
-				<nar.install_name.option>-Wl,-install_name,/usr/lib/libxml2.dylib</nar.install_name.option>
+			<properties>
+				<nar.install_name.option>-Wl,-install_name,@loader_path/libxml2.dylib</nar.install_name.option>
 			</properties>
 		</profile>
 		<profile>
