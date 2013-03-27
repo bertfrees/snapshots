@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ch.sbs</groupId>
+  <artifactId>jhyphen</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130327155847</lastUpdated>
+  </versioning>
+</metadata>
