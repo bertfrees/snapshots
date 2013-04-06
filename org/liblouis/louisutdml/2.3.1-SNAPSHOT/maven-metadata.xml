@@ -5,26 +5,26 @@
   <version>2.3.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20130405.105504</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20130406.120546</timestamp>
+      <buildNumber>5</buildNumber>
     </snapshot>
-    <lastUpdated>20130405105504</lastUpdated>
+    <lastUpdated>20130406120546</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>nar</extension>
-        <value>2.3.1-20130405.105504-3</value>
-        <updated>20130405105504</updated>
+        <value>2.3.1-20130406.120546-5</value>
+        <updated>20130406120546</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.3.1-20130405.105504-3</value>
-        <updated>20130405105504</updated>
+        <value>2.3.1-20130406.120546-5</value>
+        <updated>20130406120546</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>noarch</classifier>
         <extension>nar</extension>
-        <value>2.3.1-20130405.105504-3</value>
-        <updated>20130405105504</updated>
+        <value>2.3.1-20130406.120546-5</value>
+        <updated>20130406120546</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>i586-mingw32msvc-gpp-executable</classifier>
@@ -61,6 +61,30 @@
         <extension>nar</extension>
         <value>2.3.1-20130405.105504-3</value>
         <updated>20130405105504</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>i386-MacOSX-gpp-executable</classifier>
+        <extension>nar</extension>
+        <value>2.3.1-20130406.120351-4</value>
+        <updated>20130406120351</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>i386-MacOSX-gpp-shared</classifier>
+        <extension>nar</extension>
+        <value>2.3.1-20130406.120351-4</value>
+        <updated>20130406120351</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>x86_64-MacOSX-gpp-executable</classifier>
+        <extension>nar</extension>
+        <value>2.3.1-20130406.120546-5</value>
+        <updated>20130406120546</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>x86_64-MacOSX-gpp-shared</classifier>
+        <extension>nar</extension>
+        <value>2.3.1-20130406.120546-5</value>
+        <updated>20130406120546</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
