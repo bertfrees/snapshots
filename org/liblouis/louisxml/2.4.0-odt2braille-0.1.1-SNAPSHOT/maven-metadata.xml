@@ -5,26 +5,26 @@
   <version>2.4.0-odt2braille-0.1.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20130501.171906</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20130503.073533</timestamp>
+      <buildNumber>4</buildNumber>
     </snapshot>
-    <lastUpdated>20130501171906</lastUpdated>
+    <lastUpdated>20130503073533</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>nar</extension>
-        <value>2.4.0-odt2braille-0.1.1-20130501.171906-2</value>
-        <updated>20130501171906</updated>
+        <value>2.4.0-odt2braille-0.1.1-20130503.073533-4</value>
+        <updated>20130503073533</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.4.0-odt2braille-0.1.1-20130501.171906-2</value>
-        <updated>20130501171906</updated>
+        <value>2.4.0-odt2braille-0.1.1-20130503.073533-4</value>
+        <updated>20130503073533</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>noarch</classifier>
         <extension>nar</extension>
-        <value>2.4.0-odt2braille-0.1.1-20130501.171906-2</value>
-        <updated>20130501171906</updated>
+        <value>2.4.0-odt2braille-0.1.1-20130503.073533-4</value>
+        <updated>20130503073533</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>i386-MacOSX-gpp-executable</classifier>
@@ -49,6 +49,30 @@
         <extension>nar</extension>
         <value>2.4.0-odt2braille-0.1.1-20130501.171906-2</value>
         <updated>20130501171906</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>i386-Linux-gpp-shared</classifier>
+        <extension>nar</extension>
+        <value>2.4.0-odt2braille-0.1.1-20130503.073359-3</value>
+        <updated>20130503073359</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>i386-Linux-gpp-executable</classifier>
+        <extension>nar</extension>
+        <value>2.4.0-odt2braille-0.1.1-20130503.073359-3</value>
+        <updated>20130503073359</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>amd64-Linux-gpp-executable</classifier>
+        <extension>nar</extension>
+        <value>2.4.0-odt2braille-0.1.1-20130503.073533-4</value>
+        <updated>20130503073533</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>amd64-Linux-gpp-shared</classifier>
+        <extension>nar</extension>
+        <value>2.4.0-odt2braille-0.1.1-20130503.073533-4</value>
+        <updated>20130503073533</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
